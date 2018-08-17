@@ -1,0 +1,1 @@
+echo '<img src="data:image/jpeg;base64,'.base64_encode($row['Image']). '"height="500px" width="1000px">';
